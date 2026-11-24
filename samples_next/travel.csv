@@ -1,0 +1,8 @@
+place_a,place_b,minutes
+home,Ivy,12
+home,Canal,17
+Ivy,Canal,25
+Ivy,Mill,16
+Ivy,Yard,12
+Canal,Mill,10
+Canal,Yard,19

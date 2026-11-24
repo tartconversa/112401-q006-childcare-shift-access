@@ -1,0 +1,7 @@
+room,centre,class,day,start,end,seats,staff_group,staff_limit
+T1,Ivy,toddler,2026-09-14,06:20,18:00,2,S1,3
+P1,Ivy,preK,2026-09-14,06:20,17:30,2,S1,3
+P2,Canal,preK,2026-09-14,06:30,19:30,2,S2,2
+T2,Ivy,toddler,2026-09-21,06:20,20:00,2,S1,3
+P3,Ivy,preK,2026-09-21,06:20,17:00,2,S1,3
+P4,Canal,preK,2026-09-21,06:30,19:45,2,S2,2
