@@ -1,0 +1,6 @@
+family,priority,joined,worker_site,caregiver,latest_start
+F1,1,2026-08-04,Mill,A,2026-09-15
+F2,1,2026-08-10,Mill,B,2026-09-15
+F3,2,2026-07-01,Yard,C,2026-09-21
+F4,2,2026-08-26,Yard,D,2026-09-14
+F5,2,2026-08-27,Mill,E,2026-09-21
